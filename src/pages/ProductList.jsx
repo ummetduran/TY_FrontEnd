@@ -13,6 +13,7 @@ export default function ProductList() {
         <div>
             <Table celled>
     <Table.Header>
+      
       <Table.Row>
         <Table.HeaderCell>İD</Table.HeaderCell>
         <Table.HeaderCell>Product Name</Table.HeaderCell>
