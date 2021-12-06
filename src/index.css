@@ -12,3 +12,7 @@ code {
     monospace;
 }
 h1{font-size: 40px;}
+label{
+  
+  margin-left: 5px;
+}
